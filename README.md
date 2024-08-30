@@ -7,8 +7,7 @@
 Copy of Git Commands Documentation
 
 ### Description
-Describe what your project is about and what it does
-
+this project for Udaity nanodegree
 ### Files used
 Include the files used
 
